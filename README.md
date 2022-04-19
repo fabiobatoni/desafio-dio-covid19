@@ -1,10 +1,5 @@
----
 
-> 3º Projeto COVID 19
----
-
-
-#  Desafio Dashboard COVID 19
+# 3º Desafio Dashboard COVID 19
 
 
 ---
